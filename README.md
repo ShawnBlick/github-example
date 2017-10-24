@@ -7,3 +7,9 @@ How to Contribute
 =================
 
 Just fork the original repo at pragmaticlearning/github-example, make your changes and send over a Pull Request.
+
+```Let's all make our own personal edits to the readme```
+
+Just for fun, try and use the markdown language for formating.
+
+October 23, 2017: 5:10 p.m.
