@@ -1,0 +1,2 @@
+Please use the FirefoxDriver(FirefoxOptions) constructor, 
+configuring the FirefoxOptions like this: new FirefoxOptions().setProfile(profile)
